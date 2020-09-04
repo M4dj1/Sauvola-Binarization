@@ -1,7 +1,7 @@
 ######################################################################################
 # MiniProject   : Image binarization / Sauvola method
 # Author        : Madji Abderrahmane G02 (IAM)
-# Email         : a.madji[Q]esi-sba.dz
+# Email         : a.madji(Q)esi-sba.dz
 # Tested on     : Pycharm CE 2019 / Python 3.8
 # References    : Formulas ==> Adaptive document image binarization (Paper)
 #                 Test Picture ==> Wikipedia (Birmingham Quran manuscript 645 AD)

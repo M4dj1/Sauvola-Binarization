@@ -1,0 +1,2 @@
+# SauvolaBi
+Sauvola Threshold Binarization

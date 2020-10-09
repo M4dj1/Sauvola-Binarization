@@ -1,4 +1,4 @@
-# SauvolaBi
+# Sauvola Binarization
 Sauvola Threshold Binarization
 
 Windowsize used in test : 11
